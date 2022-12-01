@@ -8,10 +8,10 @@
 
 <h3 align="left">My Socials:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/nicolas-peres/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" /></a>
-<a href="https://www.instagram.com/nick_fury411/" target="_blank"><img align="center" src="https://img.icons8.com/fluency/512/instagram-new.png" alt="Instagram" height="40" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCzARZ2hlc645Z-0E7NG1yWg" target="blank"><img align="center" src="https://www.logo.wine/a/logo/YouTube/YouTube-Icon-Full-Color-Logo.wine.svg" alt="YouTube" height="40" width="45" /></a>
-<a href="https://br.pinterest.com/NickFury411/" target="blank"><img align="center" src="https://seeklogo.com/images/P/pinterest-logo-8561DDA2E1-seeklogo.com.png" alt="Pinterest" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/nicolas-peres/" target="_blank"><img align="center" src="https://github.com/nickfury411/chest-of-archives/blob/5972587c52fb98ca0bcca6d6d549ff89d2c23117/Logos/linkedin.svg" alt="LinkedIn" height="40" width="40" /></a>
+<a href="https://www.instagram.com/nick_fury411/" target="_blank"><img align="center" src="https://github.com/nickfury411/chest-of-archives/blob/c05f0f17d0ff2bb148da59242753d5588d1ce250/Logos/instagram.svg" alt="Instagram" height="40" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCzARZ2hlc645Z-0E7NG1yWg" target="blank"><img align="center" src="https://github.com/nickfury411/chest-of-archives/blob/addeeae165a48374b3e81833a932aab6e207b046/Logos/youtube.svg" alt="YouTube" height="40" width="40" /></a>
+<a href="https://br.pinterest.com/NickFury411/" target="blank"><img align="center" src="https://github.com/nickfury411/chest-of-archives/blob/282ed88230b2559603d63f0fb3962139dd8496e9/Logos/pinterest.svg" alt="Pinterest" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools that have knowledge of:</h3>
