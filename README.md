@@ -8,8 +8,10 @@
 
 <h3 align="left">My Socials:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/nicolas-peres/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/nicolas-peres/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" /></a>
 <a href="https://www.instagram.com/nick_fury411/" target="_blank"><img align="center" src="https://img.icons8.com/fluency/512/instagram-new.png" alt="Instagram" height="40" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCzARZ2hlc645Z-0E7NG1yWg" target="blank"><img align="center" src="https://www.logo.wine/a/logo/YouTube/YouTube-Icon-Full-Color-Logo.wine.svg" alt="YouTube" height="40" width="45" /></a>
+<a href="https://br.pinterest.com/NickFury411/" target="blank"><img align="center" src="https://seeklogo.com/images/P/pinterest-logo-8561DDA2E1-seeklogo.com.png" alt="Pinterest" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools that have knowledge of:</h3>
