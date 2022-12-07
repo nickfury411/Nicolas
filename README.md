@@ -4,6 +4,7 @@
 <p align="left">👉JavaScript obsessed, 🏁Automotive racing addict and 🎮gamer in the spare time.</p>
 <p align="left">🔰Currently studying hard to get a job</p>
 <p align="left">📧My personal E-mail for contact is: nicpperes@outlook.com</p>
+<p align="left">📝I also have an account on Medium to post articles, <a href="https://medium.com/@nicpperes" target="_blank">click here</a> if interested</p>
 <p align="left">🏆If you have any idea on what achievement hunting on Xbox is, then by all means <a href="https://www.trueachievements.com/gamer/NickFury+Player" target="_blank">click here</a></p>
 
 <h3 align="left">My Socials:</h3>
